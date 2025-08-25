@@ -24,6 +24,7 @@ https://cs.gzmtr.com/ckfw/xlu_2020/202506/W020250630720140685324.png
 https://cs.gzmtr.com/ckfw/xlu_2020/202506/W020250813808772963251.png
 https://cs.gzmtr.com/ckfwEnglish/xlu_2020/202410/W020241031720239138030.png
 https://cs.gzmtr.com/ckfwEnglish/xlu_2020/202506/W020250814397545829913.png
+
 如果你有任何其他版本（最好是官网的URL，或者是文件名形如“W0+8位日期+12位随机数字”的历史版本），欢迎Issue/Pull Request/email 621818579@qq.com !
 
 要计算金属丝的杨氏模量（Young's modulus），我们可以利用胡克定律和杨氏模量的定义公式。以下是详细的计算步骤：
