@@ -26,6 +26,8 @@ https://cs.gzmtr.com/ckfwEnglish/xlu_2020/202410/W020241031720239138030.png
 https://cs.gzmtr.com/ckfwEnglish/xlu_2020/202506/W020250814397465657430.png
 https://cs.gzmtr.com/ckfwEnglish/xlu_2020/202506/W020250814397540572304.png
 https://cs.gzmtr.com/ckfwEnglish/xlu_2020/202506/W020250814397545829913.png
+https://cs.gzmtr.com/ckfwEnglish/xlu_2020/202506/W020250904532406424835.png
+https://cs.gzmtr.com/ckfwEnglish/xlu_2020/202506/W020250904532473012324.png
 
 如果你有任何其他版本（最好是官网的URL，或者是文件名形如“W0+8位日期+12位随机数字”的历史版本），欢迎Issue/Pull Request/email 621818579@qq.com !
 
