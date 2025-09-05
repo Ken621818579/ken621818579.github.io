@@ -1,7 +1,7 @@
 # Hello world!
 
 广州地铁(羊角）你还有多少版本的地铁图是我不知道的😅
-翻遍了我能想到的简中搜索引擎和Github，找到这些版本：
+翻遍了我能想到的简中搜索引擎和Github，找到部分历史版本，并于2025年8月26日开始对羊角官网-乘客服务（中文页和英文页）进行变化监测：
 https://appmsg.gzmtr.cn/DNSFile/Modules/gzmtrmapv241.jpg
 https://cs.gzmtr.com/ckfw/road.jpg
 https://cs.gzmtr.com/ckfw/xlu_2020/202011/W020201209350245548608.jpg
